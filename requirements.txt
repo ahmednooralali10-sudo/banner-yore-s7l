@@ -1,0 +1,6 @@
+flask
+aiohttp
+pillow
+arabic-reshaper
+python-bidi
+
